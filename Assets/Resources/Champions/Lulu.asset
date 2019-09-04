@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57f8cb2f9b079e4cbc09e805316a7fa, type: 3}
+  m_Name: Lulu
+  m_EditorClassIdentifier: 
+  cardName: Lulu
+  artwork: {fileID: 21300000, guid: f962d7ba1188ade478a43412ed7e82c0, type: 3}
+  type: Enchanter
+  skill: Amazing
+  cooldown: 0
+  manacost: 25
+  health: 150
+  mana: 55
+  physicalDamage: 0
+  magicalDamage: 0
+  armor: 0
+  magicResist: 0

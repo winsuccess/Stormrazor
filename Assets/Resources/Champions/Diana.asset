@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57f8cb2f9b079e4cbc09e805316a7fa, type: 3}
+  m_Name: Diana
+  m_EditorClassIdentifier: 
+  cardName: Diana
+  artwork: {fileID: 21300000, guid: eb5aa73f14fe3104e920d719395c6f5c, type: 3}
+  type: Assassin
+  skill: 
+  cooldown: 4
+  manacost: 55
+  health: 510
+  mana: 415
+  physicalDamage: 52
+  magicalDamage: 65
+  armor: 34
+  magicResist: 31

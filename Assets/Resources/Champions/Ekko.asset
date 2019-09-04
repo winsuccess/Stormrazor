@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57f8cb2f9b079e4cbc09e805316a7fa, type: 3}
+  m_Name: Ekko
+  m_EditorClassIdentifier: 
+  cardName: Ekko
+  artwork: {fileID: 21300000, guid: 9e79c88653d7bab468bfd1b693341912, type: 3}
+  type: Assassin
+  skill: 
+  cooldown: 999
+  manacost: 100
+  health: 555
+  mana: 400
+  physicalDamage: 53
+  magicalDamage: 48
+  armor: 34
+  magicResist: 34

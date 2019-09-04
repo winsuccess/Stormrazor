@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57f8cb2f9b079e4cbc09e805316a7fa, type: 3}
+  m_Name: Amumu
+  m_EditorClassIdentifier: 
+  cardName: Amumu
+  artwork: {fileID: 21300000, guid: faa030968731f414da4770363362bd76, type: 3}
+  type: Vanguard
+  skill: 
+  cooldown: 6
+  manacost: 90
+  health: 475
+  mana: 330
+  physicalDamage: 43
+  magicalDamage: 35
+  armor: 35
+  magicResist: 40

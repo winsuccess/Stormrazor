@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57f8cb2f9b079e4cbc09e805316a7fa, type: 3}
+  m_Name: Annie
+  m_EditorClassIdentifier: 
+  cardName: Annie
+  artwork: {fileID: 21300000, guid: 75cc3eb4d3626fb4680d35a8caa47546, type: 3}
+  type: Burst
+  skill: 
+  cooldown: 5
+  manacost: 60
+  health: 450
+  mana: 405
+  physicalDamage: 47
+  magicalDamage: 75
+  armor: 26
+  magicResist: 30

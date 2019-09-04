@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57f8cb2f9b079e4cbc09e805316a7fa, type: 3}
+  m_Name: Braun
+  m_EditorClassIdentifier: 
+  cardName: Braun
+  artwork: {fileID: 21300000, guid: 4726f1e83a84c824687d3fd4c06313cf, type: 3}
+  type: Warden
+  skill: 3
+  cooldown: 3
+  manacost: 75
+  health: 565
+  mana: 325
+  physicalDamage: 48
+  magicalDamage: 0
+  armor: 37
+  magicResist: 36
